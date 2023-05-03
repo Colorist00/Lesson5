@@ -1,0 +1,41 @@
+.outer{
+          border: 3px solid black;
+          width: 300px;
+          height: 200px;
+          position: relative;
+          color: black;
+          font-weight: bold;
+}
+.inner{
+      border: 3px solid red;
+      width: 190px;
+      height: 100px;
+      position: absolute;
+      top: 30px;
+      left: 10.5px;
+      font-weight: bold;
+      color: red;
+
+
+}
+.orange{
+      width: 160px;
+      height: 300px;
+      background-color: orange;
+      position: absolute;
+      left: 15px;
+      top: 60px;
+      opacity: 0.5;
+}
+.posab{
+    
+      width: 160px;
+      height: 260px;
+      background-color: #0000FF;
+      position: absolute;
+      top: 80px;
+      left: 15px;
+      opacity: 0.6;
+      color:whitesmoke ;
+
+}

@@ -1,0 +1,115 @@
+.all{
+    border: 10px solid black;
+    
+    width: 700px;
+    height: 400px;
+    margin: 30px auto;
+}
+.c1{
+    width: 450px;
+    height: 100px;
+    background-color: skyblue;
+    opacity: 0.5;
+    margin: 20px auto;
+    position: relative;
+}
+.c2{
+    width: 450px;
+    height: 100px;
+    background-color: skyblue;
+    opacity: 0.5;
+    margin: 20px auto;
+    position: relative;
+}
+.c3{
+    width: 450px;
+    height: 100px;
+    background-color: skyblue;
+    opacity: 0.5;
+    margin: 20px auto;
+    position: relative;
+}
+.ab{
+       width: 100px;
+       height: 100px;
+       background-color: blueviolet;
+       position: absolute;
+      bottom:12px ;
+       right: 455px;
+      font-weight: bold;
+
+
+}
+.st{
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    background-color: orange;
+    position: absolute;
+    left: 10px;
+   
+}
+.re{
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    background-color: blue;
+    position: absolute;
+    left: 150px;
+    bottom: 12px;
+   color: white;
+}
+.st1{
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    background-color: orange;
+    position: absolute;
+    left: 300px;
+   
+}
+.st2{
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    background-color: orange;
+    position: absolute;
+    left: 70px;
+}
+.st3{
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    background-color: orange;
+    position: absolute;
+    left: 270px;
+}
+.st4{
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    background-color: orange;
+    position: absolute;
+    left: 10px;
+   
+}
+.st5{
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    background-color: orange;
+    position: absolute;
+    left: 300px;
+   
+}
+
+.fi{
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    background-color: red;
+    position: absolute;
+    left: 150px;
+    
+   color: rgb(14, 13, 13);
+}
